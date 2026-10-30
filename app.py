@@ -1,3 +1,4 @@
+# KR2: Джем
 import os
 import socket
 
